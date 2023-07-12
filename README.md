@@ -1,5 +1,5 @@
 # Project: Obama-Clinton Case Study and NICU Case Study
-This repository contains two case studies: the Obama-Clinton case study and the NICU case study.
+This repository contains two case studies: the Obama-Clinton case study and the NICU case study. The project was conducted by Zeynep Andsoy, Alexander Olkhovskiy, Jocelyn Chen, Haoying Zhang, George Jomy, Duc Tran, and Jiayi Huang. The major types supporting the visualizations in this report are Tableau and R code.
 
 ## Obama-Clinton Case Study
 
